@@ -1,0 +1,1 @@
+Foa4L es una colección de dispositivos para M4L desarrollados por Fabián Sguiglia y Mauro Zannoli para espacializar fuentes sonoras utilizando un sistema ambisonics pantofónico de primer orden en Ableton Live.
